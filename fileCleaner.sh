@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Tests to make sure there are a minimum amount (20) of backup files before deleting files
+#Tests to make sure there are a minimum amount(20) of files before deleting files
 
 fileCount1=`ls /path/to/file/filename* | wc -l`
 fileCount2=`ls /path/to/file/filename* | wc -l`
