@@ -5,7 +5,7 @@ bash script, intended to be used with crontab
 This script is designed to be used to clean up files that
 have not been modified for a specified number of days.
 
-# Usage:
+Usage:
 
 fileCleaner.sh path/to/file filename days(Integer)
 
